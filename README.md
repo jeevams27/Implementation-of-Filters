@@ -27,8 +27,9 @@ Anaconda - Python 3.7
 </br> 
 
 ## Program:
-### Developed By   :
-### Register Number:
+### Developed By   : M.S.Jeeva
+### Register Number: 212221230040
+
 </br>
 
 ### 1. Smoothing Filters
