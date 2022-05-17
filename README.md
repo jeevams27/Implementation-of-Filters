@@ -242,6 +242,7 @@ iv) Using Median Filter
 </br>
 
 i) Using Laplacian Kernal
+![](./1.1.jpg)
 
 </br>
 </br>
