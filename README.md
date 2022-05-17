@@ -205,7 +205,8 @@ plt.axis('off')
 ### 1. Smoothing Filters
 </br>
 
-i) Using Averaging Filter
+i) Using Averaging Filter:
+
 ![](./pika.jpg)
 </br>
 </br>
