@@ -34,8 +34,11 @@ For Laplacian operator use the syntax = lap_operator=cv2.Laplacian(image2,cv2.CV
 Run the program by using the syntax , and print the output.
 
 ## Program:
-### Developed By   :  M.S.Jeeva
-### Register Number:  21222123040
+
+### Developed By   : M.S.Jeeva
+### Register Number: 212221230040
+
+
 </br>
 
 ### 1. Smoothing Filters
